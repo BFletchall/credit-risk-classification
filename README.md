@@ -1,8 +1,6 @@
-# credit-risk-classification
+# Credit Risk Classification
 
 ## Overview of the Analysis
-
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * The purpose of this analysis is to develop a machine learning model to identify the creditworthiness of borrowers.
 * The financial information used is a dataset of historical lending activity from a peer-to-peer lending services company.
